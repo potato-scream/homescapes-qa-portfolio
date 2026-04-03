@@ -1,6 +1,10 @@
 ﻿# Homescapes QA Portfolio
 
-A manual QA portfolio for Homescapes by Playrix, created to demonstrate QA skills for a Junior QA position.
+A manual QA portfolio for Homescapes by Playrix.
+
+As a showcase of my QA skills, I selected bugs reported by real users in the official
+Playrix Help Center and attempted to reproduce them on a physical device using
+structured test cases and documented results.
 
 ## Author
 Career switcher from UI Developer to QA/BA.
