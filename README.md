@@ -7,7 +7,7 @@ Playrix Help Center and attempted to reproduce them on a physical device using
 structured test cases and documented results.
 
 ## Author
-Career switcher from UI Developer to QA/BA.
+Career switcher from UI Developer to QA.
 GitHub: [potato-scream](https://github.com/potato-scream)
 
 ## Game
